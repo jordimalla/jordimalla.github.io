@@ -8,7 +8,7 @@ El meu nom és Jordi Malla Esqué, soc Enginyer informàtic i un apasionat de l'
 
 La meva formació és: la gent que tinc al meu voltan, els estudis, els llibres i Internet.
 
-### La meva historia
+### La meva história
 
 Desde la finalització dels meus estudis universitaris fins ara, m'he anat formant en l'ambit de les TI, iniciant-me en la rama més física, instal·lació i configuració de sistemes físics i virtuals, passant per la monitorització amb Zabbix, Influxdb, Grafana, i continuant per la ciberseguretat amb Elastic i Wazuh. Però, he anat avançant cada cop més cap al desenvolupant d'aplicacions amb PHP, .NET i React, el que m'ha fet descobrir tot un món al voltant dels contenidors i la integració contínua, amb Docker i Jenkins.
 
