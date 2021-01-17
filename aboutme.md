@@ -4,9 +4,9 @@ title: About me
 subtitle: La tecnologia com a eina de present i sobretot de futur
 ---
 
-El meu nom és Jordi Malla Esqué i soc Enginyer informàtic i un apasionat de l'esport i la natura.
+El meu nom és Jordi Malla Esqué, soc Enginyer informàtic i un apasionat de l'esport i la natura.
 
-La meva formació son: la gent que tinc al meu voltan, els llibres i Internet
+La meva formació és: la gent que tinc al meu voltan, els estudis, els llibres i Internet.
 
 ### La meva historia
 
