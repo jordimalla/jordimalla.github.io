@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: La tecnologia com a eina de present i sobre tot de futur
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+El meu nom és Jordi Malla Esqué i soc Enginyer informàtic i un apasionat de l'esport i la natura.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+La meva formació son: la gent que tinc al meu voltan, els llibres i Internet
 
-What else do you need?
+### La meva historia
 
-### My story
+Desde la finalització dels meus estudis universitaris fins ara, m'he anat formant en l'ambit de les TI, iniciant-me en la rama més física, instal·lació i configuració de sistemes físics i virtuals, passant per la monitorització amb Zabbix, Influxdb, Grafana, i continuant per la ciberseguretat amb Elastic i Wazuh. Però, he anat avançant cada cop més cap al desenvolupant d'aplicacions amb PHP, .NET i React, el que m'ha fet descobrir tot un món al voltant dels contenidors i la integració contínua, amb Docker i Jenkins.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ara m'estic centrant més en el desenvolupament de projectecs i la gestió d'aquests, per tal d'alinear les TI amb el model de Negoci de l'empresa.
