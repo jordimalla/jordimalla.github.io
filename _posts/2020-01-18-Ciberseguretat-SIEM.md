@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ciberseguretat SIEM
-subtitle: La importancia dels SIEM
+title: SIEM
+subtitle: La importancia dels SIEM en l'àmbit empresarial
 cover-img: /assets/img/ciberseguridad-siem.jpg
 thumbnail-img: /assets/img/thumb-siem.png
 share-img: /assets/img/ciberseguridad-siem.jpg
