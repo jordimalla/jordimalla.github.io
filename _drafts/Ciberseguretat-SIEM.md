@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: SIEM
 subtitle: La importancia dels SIEM en l'àmbit empresarial
 cover-img: /assets/img/ciberseguridad-siem.jpg
