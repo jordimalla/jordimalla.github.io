@@ -27,12 +27,12 @@ Aquest és el dilema amb què es troben moltes empreses, petites i grans, despr�
 
 <p align="justify">Tots aquests punts tenen molt sentit si has treballat al departament de sistemes i t'has trobat amb la tasca de restaurar informació.</p>
 
-- És molt desesperant veure com l'única copia que tens, falla. I no tens res més on recorrer per recuperar aquella informació tant important que t'han sol·licitat des del departament de facturació. Tenir 2 o mes copies identiques és necessari per tal de mitigar aquest incident.  
+- <p align="justify">És molt desesperant veure com l'única copia que tens, falla. I no tens res més on recorrer per recuperar aquella informació tant important que t'han sol·licitat des del departament de facturació. Tenir 2 o mes copies identiques és necessari per tal de mitigar aquest incident.</p>  
 - Si tens més d'una copia però aquestes estan dins el mateix dispositiu, posem per cas un disc i el disc falla, estem igual que abans. Per tant és important que es procuri tenir les còpies en dispositius diferents.  
 - És habitual que l'atac no només encripti la informació de producció, si no que el malware descobreixi l'emmagatzemament de les còpies i també les encripti. En aquest moment és quan es valora moltíssim tenir un copia amb un disc totalment desconnectat de la xarxa o una cinta magnètica.
 
 <p align="justify">Espero que aquesta informació et sigui d'utilitat i serveixi per conscienciar-nos una mica més a tots de la importància d'una bona gestió del departament TI, Tecnologies de la Informació</p>
 
-**Recursos**
+**Recursos**  
 [INCIBE](https://www.incibe.es/protege-tu-empresa/herramientas/politicas)  
 [Noticies](https://cso.computerworld.es/cibercrimen/el-53-de-las-empresas-espanolas-fueron-victimas-de-un-ataque-de-ransomware-en-2019)
