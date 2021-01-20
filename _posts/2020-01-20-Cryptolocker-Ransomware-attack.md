@@ -20,18 +20,16 @@ Aquest és el dilema amb què es troben moltes empreses, petites i grans, despr�
 
 <p align="justify">Aquest concepte és molt generalista i en cada negoci cal aplicar-lo segons les necessitats i el pressupost disponible, però com a mínim hem de complir amb la regla 3,2,1</p>
 
-![regla321](/assets/img/321-post.png)
-<p align="justify">
-- 3 Còpies de la mateixa informació
-- En 2 dispositius diferents
+![regla321](/assets/img/321-post.png)  
+- 3 Còpies de la mateixa informació  
+- En 2 dispositius diferents  
 - I almenys 1 fora de l'oficina
-</p>
 
 <p align="justify">Tots aquests punts tenen molt sentit si has treballat al departament de sistemes i t'has trobat amb la tasca de restaurar informació.</p>
 
 <p align="justify">
-- És molt desesperant veure com l'única copia que tens falla, i no tens res més on recorrer per recuperar aquella informació tant important que t'han sol·licitat des del departament de facturació. Tenir 2 o mes copies identiques és necessari per tal de mitigar aquest incident. 
-- Si tens més d'una copia, però aquestes estan dins el mateix dispositiu, posem per cas un disc i el disc falla, estem igual que abans. Per tant és important que es procuri tenir les còpies en dispositius diferents. 
+- És molt desesperant veure com l'única copia que tens falla, i no tens res més on recorrer per recuperar aquella informació tant important que t'han sol·licitat des del departament de facturació. Tenir 2 o mes copies identiques és necessari per tal de mitigar aquest incident.  
+- Si tens més d'una copia, però aquestes estan dins el mateix dispositiu, posem per cas un disc i el disc falla, estem igual que abans. Per tant és important que es procuri tenir les còpies en dispositius diferents.  
 - S'han donat casos en que l'atac no només ha encriptat la informació de producció, si no que el malware ha descobert l'emmagatzemament de les còpies i també les ha encriptat, en aquest moment és quan es valora moltíssim tenir un copia amb un disc totalment desconnectat de la xarxa o una cinta magnètica.
 </p>
 
