@@ -14,7 +14,7 @@ de planificació ni preparació. Aquest fet ha abonat el terreny als cibercrimin
 <p align="justify">Segur que heu sentit més d'un cop algun empresari o autònom comentar que, la seva empresa no te res d'interessant per a que sigui atacada. Doncs s'equivoca i per demostrar-ho feu-li la pregunta següent: que faries si de cop un dia et trobes amb tota la informació digital de l'empresa encriptada i sense possibilitat de recuperar-la? pagar o tancar?  
 Aquest és el dilema amb què es troben moltes empreses, petites i grans, després d'un atac de Ransomware amb Cryptolocker, i infectar-se pot ser tan senzill com fer un clic</p>
 
-<p align="justify">Com més gran és l'empresa més consideracions cal tenir pel que fa a la política de ciberseguretat, però des de la més petita fins a la més gran un dels punts més important per poder respondre als atacs, és tenir una bona política de còpies de seguretat.</p>
+<p align="justify">Com més gran és l'empresa més consideracions cal tenir pel que fa a la política de ciberseguretat, però des de la més petita fins a la més gran un dels punts més importants per poder respondre als atacs, és tenir una bona política de còpies de seguretat.</p>
 
 <p align="justify">Per dotar-se d'una bona política de còpies de seguretat cal detectar els actius digitals a protegir i valorar en vers les necessitats del negoci i el pressupost assignat quines solucions es poden adoptar per tal de protegir-los adecuadamente.</p>
 
