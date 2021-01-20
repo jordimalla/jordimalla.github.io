@@ -11,7 +11,7 @@ tags: [ciberseguretat, ransomware, backup]
 <p align="justify">La pandemia sanitaria que estem vivint ha canviat la manera en què ens relacionem i treballem, i ha abocat a milers d'empreses al teletreball sense cap tipus
 de planificació ni preparació. Aquest fet ha abonat el terreny als cibercriminals i els ha permés augmentar la seva quota de clients mitjançant eines com el Ransomware.</p>
 
-<p align="justify">Segur que heu sentit més d'un cop algun empresari o autònom comentar que, la seva empresa no te res d'interessant per a que sigui atacada. Doncs s'equivoquen i per demostrar-ho feu-li la pregunta següent: que faries si de cop un dia et trobes amb tota la informació digital de l'empresa encriptada i sense possibilitat de recuperar-la? pagar o tancar?  
+<p align="justify">Segur que heu sentit més d'un cop algun empresari o autònom comentar que, la seva empresa no te res d'interessant per a que sigui atacada. Doncs s'equivoca i per demostrar-ho feu-li la pregunta següent: que faries si de cop un dia et trobes amb tota la informació digital de l'empresa encriptada i sense possibilitat de recuperar-la? pagar o tancar?  
 Aquest és el dilema amb què es troben moltes empreses, petites i grans, després d'un atac de Ransomware amb Cryptolocker, i infectar-se pot ser tan senzill com fer un clic</p>
 
 <p align="justify">Com més gran és l'empresa més consideracions cal tenir pel que fa a la política de ciberseguretat, però des de la més petita fins a la més gran un dels punts més important per poder respondre als atacs, és tenir una bona política de còpies de seguretat.</p>
