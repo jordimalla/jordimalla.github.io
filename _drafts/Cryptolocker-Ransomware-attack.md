@@ -21,7 +21,7 @@ Aquest és el dilema amb què es troben moltes empreses, petites i grans, despr�
 <p align="justify">Aquest concepte és molt generalista i en cada negoci cal aplicar-lo segons les necessitats i el pressupost disponible, però com a mínim hem de complir amb la regla 3,2,1</p>
 
 ![regla321](/assets/img/321-post.png)  
-- 3 Còpies de les dades
+- 3 Còpies de la mateixa informació
 - En 2 dispositius diferents
 - I almenys 1 fora de l'oficina
 
