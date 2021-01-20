@@ -16,7 +16,7 @@ Aquest és el dilema amb què es troben moltes empreses, petites i grans, despr�
 
 <p align="justify">Com més gran és l'empresa més consideracions cal tenir pel que fa a la <b>política de ciberseguretat</b>, però des de la més petita fins a la més gran un dels punts més importants per poder respondre als atacs, és tenir una bona política de còpies de seguretat.</p>
 
-<p align="justify">Per dotar-se d'una bona política de <b>còpies de seguretat<b/> cal detectar els actius digitals a protegir i valorar quines solucions es poden adoptar per tal de protegir-los adecuadamente.</p>
+<p align="justify">Per dotar-se d'una bona política de <b>còpies de seguretat</b> cal detectar els actius digitals a protegir i valorar quines solucions es poden adoptar per tal de protegir-los adecuadamente.</p>
 
 <p align="justify">Aquest concepte és molt generalista i en cada negoci cal aplicar-lo segons les necessitats i el pressupost disponible, però com a mínim hem de complir amb la regla 3,2,1</p>
 
