@@ -1,5 +1,5 @@
 ---
-layout: drafts
+layout: post
 title: Ransomware
 subtitle: Els atacs per Ransomware i la importància de les copies de seguretat
 cover-img: /assets/img/si-ransomware-101-feature.png
