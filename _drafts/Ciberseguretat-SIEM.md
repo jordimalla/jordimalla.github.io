@@ -8,7 +8,14 @@ share-img: /assets/img/ciberseguridad-siem.jpg
 tags: [ciberseguretat]
 ---
 
-En aquest primer post intentaré fer un petit resum de perquè crec que és important la implantació d'un SIEM en l'ambit empresarial.
+Desprès de moltes voltes perfí me decidit a finalitzar el Màster Universitari en Ciberseguretat i Privadesa que vaig començar a la uoc fa un temps. Finalment he trobat la motiviació per realizar el projecte, sobre tot, desprès de comprovar amb les meves propies mans com n'es d'important tenir una bona visió global de la seguretat dins l'empresa. 
+
+En els darrers anys les amenaçes de Malware i mes concretament les de ransomware han tingut un increment molt considerable degut a diferents factors com: l'augment de la digitalització descontrolada de les empreses, falta d'inversió en els departaments TI, desinformació en quan a ciberseguretat, i l'enorme recompensa lucrativa que aconsegueixen els delincuents.
+
+La protecció zero trust
+
+d'un SIEM i l'evaluació d'aquest d'avant d'un atac de criptolocker amb eines de machine learning. I és que el Machine Learning està de moda, i amb raó.
+
 
 La definició formal de SIEM és Sistema de gestió d'informació i esdeveniments de seguretat, de les seves sigles en anglès Security Information and Event Management, i ens aporta una visió global de l'estat de la seguretat del nostre entorn mitjançant la gestió dels logs i esdeveniments de seguretat generats pel nostre sistema, alhora que permet respondre als incidents de seguretat i realitzar tasques forenses.
 
