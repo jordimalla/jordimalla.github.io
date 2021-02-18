@@ -16,8 +16,8 @@ author: Jordi Malla Esqué
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - INCIBE: "https://www.incibe.es/"
+    - Medium: "https://medium.com/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
