@@ -2,9 +2,9 @@
 layout: draft
 title: Monitoritzar
 subtitle: Monitoritzar els sistemes
-cover-img: /assets/img/ciberseguridad-siem.jpg
-thumbnail-img: /assets/img/thumb-siem.png
-share-img: /assets/img/ciberseguridad-siem.jpg
+cover-img: /assets/img/Monitorizar-comunicar.jpg
+thumbnail-img: /assets/img/Monitorizar-comunicar.jpg.png
+share-img: /assets/img/Monitorizar-comunicar.jpg.jpg
 tags: [monitoritzacio]
 ---
 
