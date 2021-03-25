@@ -3,7 +3,7 @@ layout: post
 title: Monitoritzar
 subtitle: Monitoritzar per avançar
 cover-img: /assets/img/Monitorizar-comunicar.jpg
-thumbnail-img: /assets/img/Monitorizar-comunicar.jpg.png
+thumbnail-img: /assets/img/devops-monitoring-tools.jpg
 share-img: /assets/img/Monitorizar-comunicar.jpg.jpg
 tags: [monitorització]
 ---
