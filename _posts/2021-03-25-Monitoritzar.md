@@ -28,9 +28,9 @@ Totes aquestes eines de monitoratge comparteixen molts desafiaments, com per exe
 
 <p align="justify">Com podeu observar el monitoratge afecta i proveeix d’informació a diferents contextos del nostre negoci. Una correcta alineació de tots ells ens ajuda a que els diferents departaments tinguin la mateixa visió i sumin per avançar de forma conjunta i amb un objectiu clar.</p>
 
-**Recursos** 
-[Machine Learning and Business Intelligence](https://www.forbes.com/sites/forbestechcouncil/2019/10/30/12-impactful-ways-to-incorporate-machine-learning-into-business-intelligence/?sh=6879551f6194){:target="_blank"}
+**Recursos**  
+1. [Machine Learning and Business Intelligence](https://www.forbes.com/sites/forbestechcouncil/2019/10/30/12-impactful-ways-to-incorporate-machine-learning-into-business-intelligence/?sh=6879551f6194){:target="_blank"}
 
-**Imatges de**
-[thumbnail](https://www.linkeit.com/blog/main-devops-monitoring-tools){:target="_blank"}
-[cover](https://www.acceso360.com/por-que-monitorizar-para-comunicar/){:target="_blank"}
+**Imatges de**  
+1. [thumbnail](https://www.linkeit.com/blog/main-devops-monitoring-tools){:target="_blank"}  
+2. [cover](https://www.acceso360.com/por-que-monitorizar-para-comunicar/){:target="_blank"}
