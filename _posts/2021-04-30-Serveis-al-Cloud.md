@@ -30,12 +30,13 @@ Els passos son molt senzills:
 3. I per finalitzar, elimina els fitxers de les còpies antigues.  
 4. Degut a què el servidor Docker està inclòs dins la política de còpies de seguretat de l’organització, 	ja tenim còpies del codi amb un risc, la pèrdua de la informació d’un dia, acceptable en aquest cas.
 
-<p align="justify">El projecte té molts punts a millorar però, inicialment, compleix amb la funció principal de tenir còpies del codi font. Si vols veure més en detall com ha quedat el projecte, pots consultar-lo [aquí](https://github.com/jordimalla/github-backup-automation){:target="_blank"}.</p>
+<p align="justify">El projecte té molts punts a millorar però, inicialment, compleix amb la funció principal de tenir còpies del codi font. Si vols veure més en detall com ha quedat el projecte, al final de l'article en l'apartat de recursos pots consultar-lo.</p>
 
 <p align="justify">I recorda, més val prevenir els períodes de sequera, que refiar-se de xamans acrobàtics que diuen saber més del què realment saben.</p>
 
 **Recursos**  
 1. [Projecte amb python](https://github.com/josegonzalez/python-github-backup){:target="_blank"}
+2. [Projecte modificat](https://github.com/jordimalla/github-backup-automation){:target="_blank"}
 
 **Imatges de**  
 1. [thumbnail](https://www.backupassist.es/plugin-para-remote-backup-cloud/){:target="_blank"}  
