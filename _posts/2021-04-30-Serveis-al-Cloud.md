@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El Cloud i els backups
-subtitle: La inseguretat del Cloud
+subtitle: La segura inseguretat del Cloud
 cover-img: /assets/img/CloudBackup-Cover.jpeg
 thumbnail-img: /assets/img/CloudBackup-thumb.png
 share-img: /assets/img/CloudBackup-Cover.jpeg
