@@ -22,7 +22,7 @@ tags: [cloud, backup, seguretat]
 
 <p align="justify">Connectar-nos a Github des d’un servidor de l’organització, obtenir totes les dades del perfil juntament amb els repositoris, empaquetar-ho i introduir aquests fitxers dins la política de còpies de seguretat de l’organització.</p>
 
-<p align="justify">Un cop tenim el procediment clar, passem a programar-lo perquè pugui ser automatitzat. En aquest cas, he escollit realitzar la tasca amb un contenidor Docker realitzat per l’usuari xxxxxx i que he adaptat una mica per tal d’afegir-hi una funció de Python que permeti enviar la notificació del backup a un canal de Teams.</p>
+<p align="justify">Un cop tenim el procediment clar, passem a programar-lo perquè pugui ser automatitzat. En aquest cas, he escollit realitzar la tasca amb un contenidor Docker realitzat per l’usuari [Vic Shóstak](https://github.com/koddr){:target="_blank"} i que he adaptat una mica per tal d’afegir-hi una funció de Python que permeti enviar la notificació del backup a un canal de Teams.</p>
 
 Els passos son molt senzills:  
 1. Quan s’executa el contenidor, s’inicia amb un script que entra en bucle i, un cop al dia, executa la tasca de connectar-se al nostre compte de GitHub, gràcies a aquest fantàstic projecte, [projecte python](https://github.com/josegonzalez/python-github-backup){:target="_blank"}, i descarrega i empaqueta el contingut a la ubicació local indicada.  
