@@ -35,8 +35,8 @@ Els passos son molt senzills:
 <p align="justify">I recorda, més val prevenir els períodes de sequera, que refiar-se de xamans acrobàtics que diuen saber més del què realment saben.</p>
 
 **Recursos**  
-1. [Projecte amb python](https://github.com/josegonzalez/python-github-backup){:target="_blank"}
-2. [Projecte modificat](https://github.com/jordimalla/github-backup-automation){:target="_blank"}
+1. [Projecte python](https://github.com/josegonzalez/python-github-backup){:target="_blank"}
+2. [Projecte amb contenidor Docker adaptat](https://github.com/jordimalla/github-backup-automation){:target="_blank"}
 3. [Vic Shóstak](https://github.com/koddr){:target="_blank"}
 
 **Imatges de**  
